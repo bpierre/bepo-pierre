@@ -73,8 +73,8 @@
 # ------------------------------------------------------------------
   041   '$'    '#'    nop    nop    nop    182    nop    nop     O
   002   '"'    '1'    nop    nop    nop    nop    nop    nop     C
-  003   171    '2'    nop    nop    '<'    nop    nop    nop     C
-  004   187    '3'    nop    nop    '>'    nop    nop    nop     C
+  003   '<'    '2'    nop    nop    171    nop    nop    nop     C
+  004   '>'    '3'    nop    nop    187    nop    nop    nop     C
   005   '('    '4'    nop    nop    '['    nop    nop    nop     C
   006   ')'    '5'    nop    nop    ']'    nop    gs     nop     C
   007   '@'    '6'    nop    nop    '^'    nop    rs     nop     C

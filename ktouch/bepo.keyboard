@@ -54,8 +54,8 @@ ControlKey	8	BackSpace	130	0	20	10
 # 1ère ligne de touches
 NormalKey	36	$	0	0	97
 NormalKey	34	"	10	0	97
-NormalKey	171	«	20	0	97
-NormalKey	187	»	30	0	117
+NormalKey	60	<	20	0	97
+NormalKey	62	>	30	0	117
 NormalKey	40	(	40	0	105
 NormalKey	41	)	50	0	101
 NormalKey	64	@	60	0	101
@@ -111,8 +111,8 @@ NormalKey	102	f	113	30	110
 #Maj: 1ère ligne de touches
 HiddenKey	36	35	97	258	##
 HiddenKey	34	49	97	258	#1
-HiddenKey	171	50	97	258	#2
-HiddenKey	187	51	117	258	#3
+HiddenKey	60	50	97	258	#2
+HiddenKey	62	51	117	258	#3
 HiddenKey	40	52	105	258	#4
 HiddenKey	41	53	101	258	#5
 HiddenKey	64	54	101	258	#6
@@ -174,8 +174,8 @@ HiddenKey	102	70	110	257	#F
 #Maj: 1ère ligne de touches
 HiddenKey	36	8211	97	264	#–
 HiddenKey	34	8212	97	264	#—
-HiddenKey	171	60	97	264	#<
-HiddenKey	187	62	117	264	#>
+HiddenKey	60	171	97	264	#«
+HiddenKey	62	187	117	264	#»
 HiddenKey	40	91	105	264	#[
 HiddenKey	41	93	101	264	#]
 HiddenKey	64	94	101	264	#^

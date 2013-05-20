@@ -1,0 +1,3 @@
+*.pyc
+configGenerator/results
+macosx/bepo.bundle/Contents/Resources/*.keylayout

@@ -9,8 +9,6 @@ include "%L"
 <dead_abovedot> <nobreakspace> : U0307
 <dead_acute> <Sabovedot> : U1E64
 <dead_acute> <sabovedot> : U1E65
-<dead_acute> <V> : U01D7
-<dead_acute> <v> : U01D8
 <dead_acute> <nobreakspace> : combining_acute
 <dead_belowdot> <Sabovedot> : U1E68
 <dead_belowdot> <sabovedot> : U1E69
@@ -41,16 +39,13 @@ include "%L"
 <dead_caron> <8> : eightsubscript
 <dead_caron> <9> : ninesubscript
 <dead_caron> <equal> : U208C
-<dead_caron> <U01F2> : U01C5
 <dead_caron> <Sabovedot> : U1E66
 <dead_caron> <sabovedot> : U1E67
 <dead_caron> <V> : U01D9
 <dead_caron> <v> : U01DA
 <dead_caron> <nobreakspace> : U030C
 <dead_cedilla> <Cacute> : U1E08
-<dead_cedilla> <ColonSign> : U20B5
 <dead_cedilla> <cacute> : U1E09
-<dead_cedilla> <cent> : U20B5
 <dead_cedilla> <U0114> : U1E1C
 <dead_cedilla> <U0115> : U1E1D
 <dead_cedilla> <nobreakspace> : U0327
@@ -150,8 +145,6 @@ include "%L"
 <dead_diaeresis> <ugrave> : U01DC
 <dead_diaeresis> <nobreakspace> : U0308
 <dead_doubleacute> <nobreakspace> : U030B
-<dead_grave> <V> : U01DB
-<dead_grave> <v> : U01DC
 <dead_grave> <nobreakspace> : combining_grave
 <UFDD2> <A> : Greek_ALPHA
 <UFDD2> <a> : Greek_alpha
@@ -210,7 +203,6 @@ include "%L"
 <dead_hook> <c> : U0188
 <dead_hook> <D> : U018A
 <dead_hook> <d> : U0257
-<dead_hook> <U0256> : U1D91
 <dead_hook> <F> : U0191
 <dead_hook> <f> : function
 <dead_hook> <G> : U0193
@@ -408,10 +400,6 @@ include "%L"
 <dead_breve> <dead_tilde> <a> : abrevetilde
 <dead_diaeresis> <dead_caron> <U> : U01D9
 <dead_diaeresis> <dead_caron> <u> : U01DA
-<dead_cedilla> <UFDD1> <C> : U20B5
-<UFDD1> <dead_cedilla> <C> : U20B5
-<dead_cedilla> <UFDD1> <c> : U20B5
-<UFDD1> <dead_cedilla> <c> : U20B5
 <dead_circumflex> <dead_grave> <A> : Acircumflexgrave
 <dead_circumflex> <dead_grave> <a> : acircumflexgrave
 <dead_circumflex> <dead_grave> <E> : Ecircumflexgrave

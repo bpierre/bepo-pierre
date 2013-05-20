@@ -1,8 +1,8 @@
 # bepo
 key 53	 base $ shift # caps $ ctrl nop altg nop 
 key 30	 base '"' shift 1 caps 1 ctrl nop altg nop 
-key 31	 base « shift 2 caps 2 ctrl nop altg < 
-key 32	 base » shift 3 caps 3 ctrl nop altg > 
+key 31	 base < shift 2 caps 2 ctrl nop altg « 
+key 32	 base > shift 3 caps 3 ctrl nop altg » 
 key 33	 base ( shift 4 caps 4 ctrl nop altg [ 
 key 34	 base ) shift 5 caps 5 ctrl ^] altg ] 
 key 35	 base @ shift 6 caps 6 ctrl ^@ altg ^ 
